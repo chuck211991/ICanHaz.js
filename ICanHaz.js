@@ -1,8 +1,7 @@
 /*!
 ICanHaz.js version 0.10.1 -- by @HenrikJoreteg
 More info at: http://icanhazjs.com
-*/
-(function () {
+*/(function () {
 /*
   mustache.js — Logic-less templates in JavaScript
 
@@ -539,5 +538,4 @@ var Mustache = function () {
         }
     }
         
-})();
-})();
+})();})();
